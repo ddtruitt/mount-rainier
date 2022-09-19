@@ -12,3 +12,6 @@ I fixed the following:
   - Added descriptive comments throughout the html and css files
   - Made the 'h2' in the footer into a 'h4'
   - Changed around the order of the elements of the css file. Not necessary, but it follows a more logical order now
+
+The link to the website is:
+https://ddtruitt.github.io/mount-rainier/
